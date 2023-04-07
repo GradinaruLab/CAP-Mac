@@ -1,0 +1,8 @@
+altair*.json
+**/export/
+**/.ipynb_checkpoints/
+.DS_Store
+*.csv
+**/data/
+*.svg
+*.tif
