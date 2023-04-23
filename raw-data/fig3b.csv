@@ -1,0 +1,94 @@
+file,variant,animal id,region,marker,reporter pos,double pos,marker pos
+49845_neun12_par-ctx_10x_2022-09-06_1,CAP-Mac,RM-009,Parietal lobe,neun,61,48,6076
+49845_neun12_par-ctx_10x_2022-09-06_2,CAP-Mac,RM-009,Parietal lobe,neun,66,46,9039
+49845_neun12_par-ctx_10x_2022-09-06_3,CAP-Mac,RM-009,Parietal lobe,neun,27,19,10728
+49845_neun12_par-ctx_10x_2022-09-06_4,CAP-Mac,RM-009,Parietal lobe,neun,70,43,12340
+49845_neun12_par-ctx_10x_2022_07_20__11_52_37,CAP-Mac,RM-009,Parietal lobe,neun,102,63,8388
+49845_neun12_par-ctx_10x_2022_09_12_1,CAP-Mac,RM-009,Parietal lobe,neun,125,37,11432
+49845_neun12_par-ctx_10x_2022_09_12_2,CAP-Mac,RM-009,Parietal lobe,neun,29,20,5474
+49845_neun12_par-ctx_10x_2022_09_12_3,CAP-Mac,RM-009,Parietal lobe,neun,72,38,13118
+49845_neun12_par-ctx_25x_2022_07_20__12_14_08,CAP-Mac,RM-009,Parietal lobe,neun,30,24,1723
+49845_neun15_par-ctx_10x_2022_10_14__21_54_32,CAP-Mac,RM-009,Parietal lobe,neun,164,91,8425
+49845_neun15_par-ctx_10x_2022_10_14__22_14_36,CAP-Mac,RM-009,Parietal lobe,neun,302,193,11406
+49845_neun15_par-ctx_10x_2022_10_14__22_48_30,CAP-Mac,RM-009,Parietal lobe,neun,158,90,11671
+49845_neun7-top_cd-1_25x_2022_01_27__16_34_31,CAP-Mac,RM-009,Caudate,neun,33,20,6546
+49845_neun7-top_cd-2_25x_2022_01_27__16_34_31,CAP-Mac,RM-009,Caudate,neun,20,6,4796
+49845_neun7-top_cd-3_25x_2022_01_27__16_34_31,CAP-Mac,RM-009,Caudate,neun,23,17,5045
+49845_neun7-top_cd-4_25x_2022_01_27__16_34_31,CAP-Mac,RM-009,Caudate,neun,11,9,3877
+49845_neun8-bot_temporalctx-1_25x_2022_01_26__18_07_39,CAP-Mac,RM-009,Temporal lobe,neun,74,51,5642
+49845_neun8-bot_temporalctx-2_25x_2022_01_26__18_07_39,CAP-Mac,RM-009,Temporal lobe,neun,69,35,6541
+49845_neun8-bot_thalamus-1_25x_2022_01_30__10_40_55,CAP-Mac,RM-009,Thalamus,neun,69,29,568
+49845_neun8-bot_thalamus-2_25x_2022_01_30__10_40_55,CAP-Mac,RM-009,Thalamus,neun,99,30,577
+49845_neun8-bot_thalamus-3_25x_2022_01_30__10_40_55,CAP-Mac,RM-009,Thalamus,neun,34,23,596
+49845_neun8-top_parietalctx-1_25x_2022_01_25__14_43_45,CAP-Mac,RM-009,Parietal lobe,neun,70,43,5237
+49845_neun8-top_parietalctx-2_25x_2022_01_25__17_05_08,CAP-Mac,RM-009,Parietal lobe,neun,192,114,6355
+49845_neun8-top_parietalctx-3_25x_2022_01_25__19_11_39,CAP-Mac,RM-009,Parietal lobe,neun,151,75,5558
+49845_neun8-top_pt-1_25x_2022_01_28__13_32_23,CAP-Mac,RM-009,Putamen,neun,26,19,5049
+49845_neun8-top_pt-2_25x_2022_01_28__13_32_23,CAP-Mac,RM-009,Putamen,neun,23,17,5109
+49845_neun8-top_pt-3_25x_2022_01_28__13_32_23,CAP-Mac,RM-009,Putamen,neun,22,12,5086
+49845_neun9-bot_frontalctx-1_25x_2022_01_28__21_11_16,CAP-Mac,RM-009,Frontal lobe,neun,44,31,3750
+49845_neun9-bot_frontalctx-2_25x_2022_01_28__21_11_16,CAP-Mac,RM-009,Frontal lobe,neun,20,18,3613
+49845_neun9-bot_frontalctx-3_25x_2022_01_28__21_11_16,CAP-Mac,RM-009,Frontal lobe,neun,58,36,3997
+49845_neun9-bot_frontalctx-4_25x_2022_01_28__21_11_16,CAP-Mac,RM-009,Frontal lobe,neun,18,14,3151
+49845_s10011_thal_10x_2022_10_13__19_34_43,CAP-Mac,RM-009,Thalamus,s100,1187,3,2134
+49845_s10011_thal_10x_2022_10_13__19_54_12,CAP-Mac,RM-009,Thalamus,s100,1052,2,1516
+49845_s10011_thal_10x_2022_10_13__20_13_40,CAP-Mac,RM-009,Thalamus,s100,687,0,1437
+49845_s10011_thal_10x_2022_10_13__20_33_46,CAP-Mac,RM-009,Thalamus,s100,469,2,2444
+49845_s10011_thal_10x_2022_10_13__20_52_01,CAP-Mac,RM-009,Thalamus,s100,503,3,2636
+49845_s1008_par-ctx_10x_2022_07_20__10_16_18,CAP-Mac,RM-009,Parietal lobe,s100,199,1,2033
+49845_s1008_par-ctx_25x_2022_07_20__10_47_46,CAP-Mac,RM-009,Parietal lobe,s100,37,0,473
+49845_s1009_cd_10x_2022_10_13__10_11_11,CAP-Mac,RM-009,Caudate,s100,31,3,3458
+49845_s1009_cd_10x_2022_10_13__10_33_56,CAP-Mac,RM-009,Caudate,s100,30,0,2853
+49845_s1009_cd_10x_2022_10_13__10_56_42,CAP-Mac,RM-009,Caudate,s100,28,1,4965
+49845_s1009_frt-ctx_10x_2022_10_12__18_58_59,CAP-Mac,RM-009,Frontal lobe,s100,94,1,3316
+49845_s1009_frt-ctx_10x_2022_10_12__19_25_21,CAP-Mac,RM-009,Frontal lobe,s100,108,2,3813
+49845_s1009_frt-ctx_10x_2022_10_12__19_50_32,CAP-Mac,RM-009,Frontal lobe,s100,97,2,2254
+49845_s1009_frt-ctx_10x_2022_10_12__20_18_06,CAP-Mac,RM-009,Frontal lobe,s100,163,2,2686
+49845_s1009_par-ctx_10x_2022_10_11__09_42_31,CAP-Mac,RM-009,Parietal lobe,s100,93,0,3490
+49845_s1009_par-ctx_10x_2022_10_11__09_49_40,CAP-Mac,RM-009,Parietal lobe,s100,86,3,1855
+49845_s1009_par-ctx_10x_2022_10_11__09_57_10,CAP-Mac,RM-009,Parietal lobe,s100,51,1,3623
+49845_s1009_pt_10x_2022_10_13__11_24_48,CAP-Mac,RM-009,Putamen,s100,36,0,4374
+49845_s1009_pt_10x_2022_10_13__11_43_58,CAP-Mac,RM-009,Putamen,s100,41,1,2844
+49845_s1009_pt_10x_2022_10_13__12_05_33,CAP-Mac,RM-009,Putamen,s100,32,0,4189
+49845_s1009_pt_10x_2022_10_13__12_29_31,CAP-Mac,RM-009,Putamen,s100,35,2,2695
+49845_s1009_temp-ctx_10x_2022_10_12__20_57_14,CAP-Mac,RM-009,Temporal lobe,s100,53,2,2552
+49845_s1009_temp-ctx_10x_2022_10_12__21_22_24,CAP-Mac,RM-009,Temporal lobe,s100,58,1,3008
+49845_s1009_temp-ctx_10x_2022_10_12__21_46_22,CAP-Mac,RM-009,Temporal lobe,s100,74,0,3001
+49846_neun-10_BM_10x_frontal-ctx_2022_05_25__18_27_09,CAP-Mac,RM-010,Frontal lobe,neun,197,104,10784
+49846_neun-10_UL_10x_frontal-ctx_2022_05_25__16_15_36,CAP-Mac,RM-010,Frontal lobe,neun,178,84,6874
+49846_neun-10_UR_10x_frontal-ctx_2022_05_25__17_12_05,CAP-Mac,RM-010,Frontal lobe,neun,223,117,9369
+49846_neun14_cd_10x_2022_10_14__14_00_23,CAP-Mac,RM-010,Caudate,neun,41,17,10025
+49846_neun14_cd_10x_2022_10_14__14_12_55,CAP-Mac,RM-010,Caudate,neun,37,27,11453
+49846_neun14_par-ctx_10x_2022_10_14__11_50_08,CAP-Mac,RM-010,Parietal lobe,neun,1056,574,11516
+49846_neun14_par-ctx_10x_2022_10_14__12_07_43,CAP-Mac,RM-010,Parietal lobe,neun,936,571,10879
+49846_neun14_par-ctx_10x_2022_10_14__12_25_18,CAP-Mac,RM-010,Parietal lobe,neun,465,238,9727
+49846_neun14_pt_10x_2022_10_14__14_56_32,CAP-Mac,RM-010,Putamen,neun,13,7,10397
+49846_neun14_pt_10x_2022_10_14__15_10_57,CAP-Mac,RM-010,Putamen,neun,18,10,11788
+49846_neun14_pt_10x_2022_10_14__15_25_23,CAP-Mac,RM-010,Putamen,neun,20,5,11356
+49846_neun14_pt_10x_2022_10_14__15_40_28,CAP-Mac,RM-010,Putamen,neun,21,9,12359
+49846_neun14_temp-ctx_10x_2022_10_14__12_52_20,CAP-Mac,RM-010,Temporal lobe,neun,324,178,12914
+49846_neun14_temp-ctx_10x_2022_10_14__13_06_09,CAP-Mac,RM-010,Temporal lobe,neun,506,305,13889
+49846_neun14_temp-ctx_10x_2022_10_14__13_19_21,CAP-Mac,RM-010,Temporal lobe,neun,566,342,15764
+49846_neun14_temp-ctx_10x_2022_10_14__13_31_17,CAP-Mac,RM-010,Temporal lobe,neun,523,256,10710
+49846_s100-6_BR_10x_frontal-ctx_2022_05_25__21_48_35,CAP-Mac,RM-010,Frontal lobe,s100,392,0,3714
+49846_s10010_cd_10x_2022_10_14__18_34_00,CAP-Mac,RM-010,Caudate,s100,39,0,3292
+49846_s10010_cd_10x_2022_10_14__18_47_10,CAP-Mac,RM-010,Caudate,s100,64,1,2140
+49846_s10010_frt-ctx_10x_2022_10_13__17_29_17,CAP-Mac,RM-010,Frontal lobe,s100,574,3,4961
+49846_s10010_frt-ctx_10x_2022_10_13__17_49_39,CAP-Mac,RM-010,Frontal lobe,s100,313,0,2743
+49846_s10010_frt-ctx_10x_2022_10_13__18_39_57,CAP-Mac,RM-010,Frontal lobe,s100,340,1,4548
+49846_s10010_par-ctx_10x_2022_10_13__13_07_20,CAP-Mac,RM-010,Parietal lobe,s100,462,1,3541
+49846_s10010_par-ctx_10x_2022_10_13__13_31_18,CAP-Mac,RM-010,Parietal lobe,s100,280,0,3970
+49846_s10010_par-ctx_10x_2022_10_13__13_56_27,CAP-Mac,RM-010,Parietal lobe,s100,435,4,3981
+49846_s10010_par-ctx_10x_2022_10_13__14_20_26,CAP-Mac,RM-010,Parietal lobe,s100,331,4,3494
+49846_s10010_pt_10x_2022_10_14__19_15_32,CAP-Mac,RM-010,Putamen,s100,16,1,2723
+49846_s10010_pt_10x_2022_10_14__19_29_58,CAP-Mac,RM-010,Putamen,s100,25,0,2584
+49846_s10010_pt_10x_2022_10_14__19_43_08,CAP-Mac,RM-010,Putamen,s100,25,0,2645
+49846_s10010_pt_10x_2022_10_14__20_00_06,CAP-Mac,RM-010,Putamen,s100,16,2,2829
+49846_s10010_temp_ctx_10x_2022_10_13__15_17_06,CAP-Mac,RM-010,Temporal lobe,s100,510,1,3046
+49846_s10010_temp_ctx_10x_2022_10_13__16_06_08,CAP-Mac,RM-010,Temporal lobe,s100,476,1,3748
+49846_s10010_temp_ctx_10x_2022_10_13__16_33_41,CAP-Mac,RM-010,Temporal lobe,s100,582,2,3996
+49846_s10010_temp_ctx_10x_2022_10_13__16_57_39,CAP-Mac,RM-010,Temporal lobe,s100,586,1,3664
+49846_s10012_thal_10x_2022_10_14__20_21_59,CAP-Mac,RM-010,Thalamus,s100,135,0,3974
+49846_s10012_thal_10x_2022_10_14__20_33_16,CAP-Mac,RM-010,Thalamus,s100,286,1,5299
+49846_s10012_thal_10x_2022_10_14__20_47_42,CAP-Mac,RM-010,Thalamus,s100,209,0,4880
+49846_s10012_thal_10x_2022_10_14__21_00_54,CAP-Mac,RM-010,Thalamus,s100,191,0,4885

@@ -1,0 +1,195 @@
+file,variant,animal id,region,marker,reporter pos,double pos,marker pos
+C002.7.14a_Cd,AAV9,C002,Caudate,neun,18,7,874
+C002.7.15a_Cd,AAV9,C002,Caudate,neun,26,4,927
+C002.7.16a_Cd,AAV9,C002,Caudate,neun,16,5,2678
+C002.1.2a_FL_Overlay,AAV9,C002,Frontal lobe,neun,83,1,1267
+C002.1.2b_FL_Overlay,AAV9,C002,Frontal lobe,neun,72,0,1245
+C002.1.2c_FL_Overlay,AAV9,C002,Frontal lobe,neun,61,7,964
+C002.1.3a_FL_Overlay,AAV9,C002,Frontal lobe,neun,65,1,1301
+C002.1.3b_FL_Overlay,AAV9,C002,Frontal lobe,neun,69,3,1226
+C002.1.3c_FL_Overlay,AAV9,C002,Frontal lobe,neun,60,0,1000
+C002.1.4a_FL_Overlay,AAV9,C002,Frontal lobe,neun,60,1,1355
+C002.1.4b_FL_Overlay,AAV9,C002,Frontal lobe,neun,74,3,1242
+C002.1.4c_FL_Overlay,AAV9,C002,Frontal lobe,neun,56,0,1016
+C002.11.10a_PL_Overlay,AAV9,C002,Parietal lobe,neun,48,0,1344
+C002.11.10b_PL_Overlay,AAV9,C002,Parietal lobe,neun,57,2,1360
+C002.11.10c_PL_Overlay,AAV9,C002,Parietal lobe,neun,43,1,1376
+C002.11.11a_PL_Overlay,AAV9,C002,Parietal lobe,neun,59,0,1308
+C002.11.11b_PL_Overlay,AAV9,C002,Parietal lobe,neun,55,0,1266
+C002.11.11c_PL_Overlay,AAV9,C002,Parietal lobe,neun,49,1,1482
+C002.11.9a_PL_Overlay,AAV9,C002,Parietal lobe,neun,49,0,1358
+C002.11.9b_PL_Overlay,AAV9,C002,Parietal lobe,neun,53,0,1340
+C002.11.9c_PL_Overlay,AAV9,C002,Parietal lobe,neun,49,1,1335
+C002.7.14a_Pu_Overlay,AAV9,C002,Putamen,neun,33,4,966
+C002.7.14b_Pu_Overlay,AAV9,C002,Putamen,neun,32,7,970
+C002.7.14c_Pu_Overlay,AAV9,C002,Putamen,neun,20,5,1030
+C002.7.15a_Pu_Overlay,AAV9,C002,Putamen,neun,24,5,888
+C002.7.15b_Pu_Overlay,AAV9,C002,Putamen,neun,25,7,1037
+C002.7.15c_Pu_Overlay,AAV9,C002,Putamen,neun,28,11,969
+C002.7.16a_Pu_Overlay,AAV9,C002,Putamen,neun,26,5,958
+C002.7.16b_Pu_Overlay,AAV9,C002,Putamen,neun,39,12,1104
+C002.7.16c_Pu_Overlay,AAV9,C002,Putamen,neun,36,8,986
+C002.7.14a_TL_Overlay,AAV9,C002,Temporal lobe,neun,41,5,1137
+C002.7.14b_TL_Overlay,AAV9,C002,Temporal lobe,neun,42,3,1112
+C002.7.14c_TL_Overlay,AAV9,C002,Temporal lobe,neun,37,0,1050
+C002.7.15a_TL_Overlay,AAV9,C002,Temporal lobe,neun,40,0,882
+C002.7.15b_TL_Overlay,AAV9,C002,Temporal lobe,neun,11,0,1073
+C002.7.15c_TL_Overlay,AAV9,C002,Temporal lobe,neun,53,0,1350
+C002.7.16a_TL_Overlay,AAV9,C002,Temporal lobe,neun,26,0,1257
+C002.7.16b_TL_Overlay,AAV9,C002,Temporal lobe,neun,7,2,1187
+C002.7.16c_TL_Overlay,AAV9,C002,Temporal lobe,neun,34,0,1148
+C002.7.14a_Th_Overlay,AAV9,C002,Thalamus,neun,27,0,422
+C002.7.14b_Th_Overlay,AAV9,C002,Thalamus,neun,73,36,617
+C002.7.14c_Th_Overlay,AAV9,C002,Thalamus,neun,17,2,713
+C002.7.15a_Th_Overlay,AAV9,C002,Thalamus,neun,41,4,494
+C002.7.15b_Th_Overlay,AAV9,C002,Thalamus,neun,50,18,370
+C002.7.15c_Th_Overlay,AAV9,C002,Thalamus,neun,21,3,697
+C002.7.16a_Th_Overlay,AAV9,C002,Thalamus,neun,12,0,266
+C002.7.16b_Th_Overlay,AAV9,C002,Thalamus,neun,56,31,434
+C002.7.16c_Th_Overlay,AAV9,C002,Thalamus,neun,27,1,690
+C016.7.2a_Cd,AAV9,C016,Caudate,neun,51,14,783
+C016.7.2b_Cd,AAV9,C016,Caudate,neun,43,14,873
+C016.7.3a_Cd,AAV9,C016,Caudate,neun,37,10,955
+C016.7.3b_Cd,AAV9,C016,Caudate,neun,33,12,944
+C016.7.4a_Cd,AAV9,C016,Caudate,neun,38,10,1024
+C016.7.4b_Cd,AAV9,C016,Caudate,neun,44,15,976
+C016.1.2a_FL_Overlay,AAV9,C016,Frontal lobe,neun,70,1,1143
+C016.1.2b_FL_Overlay,AAV9,C016,Frontal lobe,neun,61,0,1227
+C016.1.2c_FL_Overlay,AAV9,C016,Frontal lobe,neun,77,0,1145
+C016.1.3a_FL_Overlay,AAV9,C016,Frontal lobe,neun,35,1,750
+C016.1.3b_FL_Overlay,AAV9,C016,Frontal lobe,neun,47,0,1106
+C016.1.3c_FL_Overlay,AAV9,C016,Frontal lobe,neun,67,2,998
+C016.1.4a_FL_Overlay,AAV9,C016,Frontal lobe,neun,45,1,1156
+C016.1.4b_FL_Overlay,AAV9,C016,Frontal lobe,neun,55,0,1150
+C016.1.4c_FL_Overlay,AAV9,C016,Frontal lobe,neun,51,1,1159
+C016.11.5a_FL_Overlay,AAV9,C016,Parietal lobe,neun,48,1,1487
+C016.11.5b_FL_Overlay,AAV9,C016,Parietal lobe,neun,37,2,1507
+C016.11.5c_FL_Overlay,AAV9,C016,Parietal lobe,neun,58,2,1092
+C016.11.6a_FL_Overlay,AAV9,C016,Parietal lobe,neun,34,1,1130
+C016.11.6b_FL_Overlay,AAV9,C016,Parietal lobe,neun,42,2,1221
+C016.11.6c_FL_Overlay,AAV9,C016,Parietal lobe,neun,43,1,793
+C016.11.7a_FL_Overlay,AAV9,C016,Parietal lobe,neun,41,0,1603
+C016.11.7b_FL_Overlay,AAV9,C016,Parietal lobe,neun,50,7,1421
+C016.11.7c_FL_Overlay,AAV9,C016,Parietal lobe,neun,26,0,1354
+C016.7.2a_Pu_Overlay,AAV9,C016,Putamen,neun,47,16,980
+C016.7.2b_Pu_Overlay,AAV9,C016,Putamen,neun,41,21,935
+C016.7.2c_Pu_Overlay,AAV9,C016,Putamen,neun,54,19,814
+C016.7.3a_Pu_Overlay,AAV9,C016,Putamen,neun,64,20,1016
+C016.7.3b_Pu_Overlay,AAV9,C016,Putamen,neun,50,14,955
+C016.7.3c_Pu_Overlay,AAV9,C016,Putamen,neun,42,18,950
+C016.7.4a_Pu_Overlay,AAV9,C016,Putamen,neun,52,22,1053
+C016.7.4b_Pu_Overlay,AAV9,C016,Putamen,neun,45,14,1088
+C016.7.4c_Pu_Overlay,AAV9,C016,Putamen,neun,35,12,959
+C016.7.2a_TL_Overlay,AAV9,C016,Temporal lobe,neun,37,2,1134
+C016.7.2b_TL_Overlay,AAV9,C016,Temporal lobe,neun,30,1,1429
+C016.7.2c_TL_Overlay,AAV9,C016,Temporal lobe,neun,45,1,1281
+C016.7.3a_TL_Overlay,AAV9,C016,Temporal lobe,neun,20,0,1218
+C016.7.3b_TL_Overlay,AAV9,C016,Temporal lobe,neun,37,5,1307
+C016.7.3c_TL_Overlay,AAV9,C016,Temporal lobe,neun,27,1,1196
+C016.7.4a_TL_Overlay,AAV9,C016,Temporal lobe,neun,25,1,1312
+C016.7.4b_TL_Overlay,AAV9,C016,Temporal lobe,neun,37,5,1324
+C016.7.4c_TL_Overlay,AAV9,C016,Temporal lobe,neun,39,2,1371
+C016.7.2a_Th_Overlay,AAV9,C016,Thalamus,neun,17,5,330
+C016.7.2b_Th_Overlay,AAV9,C016,Thalamus,neun,12,0,280
+C016.7.2c_Th_Overlay,AAV9,C016,Thalamus,neun,17,0,267
+C016.7.3a_Th_Overlay,AAV9,C016,Thalamus,neun,22,0,292
+C016.7.3b_Th_Overlay,AAV9,C016,Thalamus,neun,10,1,280
+C016.7.3c_Th_Overlay,AAV9,C016,Thalamus,neun,20,4,374
+C016.7.4a_Th_Overlay,AAV9,C016,Thalamus,neun,24,11,431
+C016.7.4b_Th_Overlay,AAV9,C016,Thalamus,neun,18,2,343
+C016.7.4c_Th_Overlay,AAV9,C016,Thalamus,neun,20,1,276
+1,AAV9,C002,Caudate,s100,5,1,376
+2,AAV9,C002,Caudate,s100,7,2,361
+3,AAV9,C002,Caudate,s100,9,3,366
+1,AAV9,C002,Frontal lobe,s100,42,33,427
+2,AAV9,C002,Frontal lobe,s100,26,15,646
+3,AAV9,C002,Frontal lobe,s100,24,21,374
+4,AAV9,C002,Frontal lobe,s100,60,47,412
+5,AAV9,C002,Frontal lobe,s100,62,48,497
+6,AAV9,C002,Frontal lobe,s100,35,21,545
+7,AAV9,C002,Frontal lobe,s100,33,31,641
+8,AAV9,C002,Frontal lobe,s100,15,13,424
+9,AAV9,C002,Frontal lobe,s100,35,34,336
+1,AAV9,C002,Parietal lobe,s100,38,17,446
+2,AAV9,C002,Parietal lobe,s100,68,18,463
+3,AAV9,C002,Parietal lobe,s100,40,12,498
+4,AAV9,C002,Parietal lobe,s100,30,15,527
+5,AAV9,C002,Parietal lobe,s100,75,24,580
+6,AAV9,C002,Parietal lobe,s100,27,14,415
+7,AAV9,C002,Parietal lobe,s100,37,15,528
+8,AAV9,C002,Parietal lobe,s100,99,16,455
+9,AAV9,C002,Parietal lobe,s100,47,11,616
+1,AAV9,C002,Putamen,s100,26,9,398
+2,AAV9,C002,Putamen,s100,20,7,523
+3,AAV9,C002,Putamen,s100,18,6,544
+4,AAV9,C002,Putamen,s100,24,6,446
+5,AAV9,C002,Putamen,s100,32,9,447
+6,AAV9,C002,Putamen,s100,50,15,451
+7,AAV9,C002,Putamen,s100,25,7,457
+8,AAV9,C002,Putamen,s100,23,8,483
+9,AAV9,C002,Putamen,s100,32,3,432
+1,AAV9,C002,Temporal lobe,s100,38,9,269
+2,AAV9,C002,Temporal lobe,s100,33,13,359
+3,AAV9,C002,Temporal lobe,s100,32,17,400
+4,AAV9,C002,Temporal lobe,s100,26,8,403
+5,AAV9,C002,Temporal lobe,s100,38,8,281
+6,AAV9,C002,Temporal lobe,s100,39,18,330
+7,AAV9,C002,Temporal lobe,s100,28,5,291
+8,AAV9,C002,Temporal lobe,s100,26,8,318
+9,AAV9,C002,Temporal lobe,s100,30,7,290
+2,AAV9,C002,Thalamus,s100,22,10,1066
+3,AAV9,C002,Thalamus,s100,15,7,741
+4,AAV9,C002,Thalamus,s100,60,11,946
+5,AAV9,C002,Thalamus,s100,34,14,956
+6,AAV9,C002,Thalamus,s100,13,4,541
+7,AAV9,C002,Thalamus,s100,14,8,833
+8,AAV9,C002,Thalamus,s100,72,15,1076
+9,AAV9,C002,Thalamus,s100,57,13,1053
+1,AAV9,C016,Caudate,s100,12,1,406
+2,AAV9,C016,Caudate,s100,16,0,526
+3,AAV9,C016,Caudate,s100,12,0,383
+4,AAV9,C016,Caudate,s100,25,1,439
+5,AAV9,C016,Caudate,s100,9,2,421
+6,AAV9,C016,Caudate,s100,15,1,445
+1,AAV9,C016,Frontal lobe,s100,17,2,312
+2,AAV9,C016,Frontal lobe,s100,22,9,919
+3,AAV9,C016,Frontal lobe,s100,13,5,337
+4,AAV9,C016,Frontal lobe,s100,21,7,373
+5,AAV9,C016,Frontal lobe,s100,30,6,416
+6,AAV9,C016,Frontal lobe,s100,8,6,314
+7,AAV9,C016,Frontal lobe,s100,13,4,348
+9,AAV9,C016,Frontal lobe,s100,13,4,439
+1,AAV9,C016,Parietal lobe,s100,31,1,289
+2,AAV9,C016,Parietal lobe,s100,22,2,259
+3,AAV9,C016,Parietal lobe,s100,26,3,317
+4,AAV9,C016,Parietal lobe,s100,17,2,352
+5,AAV9,C016,Parietal lobe,s100,45,4,478
+6,AAV9,C016,Parietal lobe,s100,54,7,410
+7,AAV9,C016,Parietal lobe,s100,29,6,280
+8,AAV9,C016,Parietal lobe,s100,35,3,166
+9,AAV9,C016,Parietal lobe,s100,45,3,442
+1,AAV9,C016,Putamen,s100,21,1,711
+2,AAV9,C016,Putamen,s100,38,4,627
+3,AAV9,C016,Putamen,s100,12,1,443
+4,AAV9,C016,Putamen,s100,23,4,532
+5,AAV9,C016,Putamen,s100,42,4,520
+6,AAV9,C016,Putamen,s100,29,5,464
+7,AAV9,C016,Putamen,s100,18,2,552
+8,AAV9,C016,Putamen,s100,33,4,458
+9,AAV9,C016,Putamen,s100,22,4,409
+1,AAV9,C016,Temporal lobe,s100,14,2,139
+2,AAV9,C016,Temporal lobe,s100,16,3,257
+3,AAV9,C016,Temporal lobe,s100,24,6,413
+4,AAV9,C016,Temporal lobe,s100,11,2,231
+5,AAV9,C016,Temporal lobe,s100,10,1,221
+6,AAV9,C016,Temporal lobe,s100,20,0,242
+7,AAV9,C016,Temporal lobe,s100,6,0,185
+8,AAV9,C016,Temporal lobe,s100,25,6,264
+9,AAV9,C016,Temporal lobe,s100,23,5,560
+1,AAV9,C016,Thalamus,s100,21,3,385
+3,AAV9,C016,Thalamus,s100,15,5,337
+5,AAV9,C016,Thalamus,s100,8,0,543
+6,AAV9,C016,Thalamus,s100,22,5,419
+7,AAV9,C016,Thalamus,s100,27,3,658
+8,AAV9,C016,Thalamus,s100,24,7,625
+9,AAV9,C016,Thalamus,s100,24,5,336
